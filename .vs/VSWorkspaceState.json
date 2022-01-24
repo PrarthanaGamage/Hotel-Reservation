@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contacts",
+    "\\Contacts\\Contacts",
+    "\\Contacts\\Contacts\\bin\\Debug",
+    "\\Contacts\\Contacts\\bin\\Debug\\net5.0",
+    "\\Contacts\\Contacts\\bin\\Debug\\net5.0\\ref",
+    "\\Contacts\\Contacts\\bin\\Release",
+    "\\Contacts\\Contacts\\bin\\Release\\net5.0",
+    "\\Contacts\\Contacts\\bin\\Release\\net5.0\\ref",
+    "\\Features"
+  ],
+  "SelectedNode": "\\Contacts\\Contacts.sln",
+  "PreviewInSolutionExplorer": false
+}
